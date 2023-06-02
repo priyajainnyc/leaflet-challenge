@@ -50,7 +50,7 @@ The map has 3 base maps and 2 overlays to choose from.
 - The base map layers are the outdoor, satellite (default), and gray scale, you can check a different circle to toggle between the base maps
 - The overlays are Earthquakes layer and Tectonic Plates layer, you can select one or more overlays to visualize them on the map
 
-  ![image](https://user-images.githubusercontent.com/120543690/230997542-82c7ecbe-9273-4738-a824-b5988bc76ff5.png)
+  ![image](https://github.com/priyajainnyc/leaflet-challenge/assets/124069684/0dbe68ad-828f-4057-9f98-8fb649293c0b)
 
 
 **Markers**
