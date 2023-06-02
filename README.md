@@ -42,7 +42,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 See below snippet:
 
-  ![image](![image](https://github.com/priyajainnyc/leaflet-challenge/assets/124069684/d7a559e4-4246-4202-b99c-8156ccc86f23))
+  ![image](https://github.com/priyajainnyc/leaflet-challenge/assets/124069684/d7a559e4-4246-4202-b99c-8156ccc86f23)
   
 **Layer Control**
 
