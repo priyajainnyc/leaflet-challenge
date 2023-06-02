@@ -59,7 +59,7 @@ The map has 3 base maps and 2 overlays to choose from.
   - The color of the marker changes with the depth level
   - Each marker has a tooltip with the Magnitude, the location and depth
 
-    <img width="695" alt="image" src="https://user-images.githubusercontent.com/120543690/229031857-a356e461-e4d4-4b0b-90d8-6207f652f369.png">
+    <img width="695" alt="image" src="https://github.com/priyajainnyc/leaflet-challenge/assets/124069684/6653ba18-0d36-4d72-8145-71bba4446e1b">
 
   
 **Legend**
