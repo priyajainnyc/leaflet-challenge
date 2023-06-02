@@ -27,7 +27,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
 **Installation**
 - Clone this repo and save it in your local directory
-- git clone `https://github.com/priyajainnyc/leaflet-challenge.git`
+- git clone `https://github.com/priyajainnyc/leaflet-challenge/`
 - Open the repo in a code editor to see the codes
 - Add and save your API key inside of a `config.js` file inside of the `static/js/`folder
 
@@ -38,7 +38,7 @@ Make sure you have installed all of the following prerequisites on your developm
 ## Features
 **The Map**
 
-  The map is set to centered at GeoCoordinate [37.6, -95.665] (the United States), with a zoom level of 3.5.5. Each marker on the map indicates an incident of earthquake, and the orange lines across the map indicate the tectonic plates boundaries. The map is zoomable. You can also move the map by click and drag to explore different areas. 
+  The map is set to centered at GeoCoordinate [37.6, -95.665] (the United States), with a zoom level of 3.5. Each marker on the map indicates an incident of earthquake, and the orange lines across the map indicate the tectonic plates boundaries. The map is zoomable. You can also move the map by click and drag to explore different areas. 
 
 See below snippet:
 
