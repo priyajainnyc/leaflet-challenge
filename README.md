@@ -70,5 +70,4 @@ The map has 3 base maps and 2 overlays to choose from.
 - Leaflet 
 - D3
 - USGS
-- My Instructor: Kevin Lee
 - Tectonic Plates Provider: Hugo Ahlenius, Nordpil and Peter Bird ([Check out their github repo here](https://github.com/fraxen/tectonicplates))
