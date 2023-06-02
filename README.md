@@ -33,7 +33,7 @@ Make sure you have installed all of the following prerequisites on your developm
 
   ` export const API_KEY = <your API key>` 
 
-- Visit [localhost: 5000](http://localhost:5000) in your browser
+- Visit [localhost: 5000](https://priyajainnyc.github.io/leaflet-challenge/) in your browser
 
 ## Features
 **The Map**
